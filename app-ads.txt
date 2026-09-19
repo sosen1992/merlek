@@ -1,0 +1,9 @@
+# AppLovin
+applovin.com, a043f11a8, DIRECT
+
+# Pangle (Bytedance)
+pangolin-sdk.com, 1376, DIRECT
+pangle.io, 1376, DIRECT
+
+# Unity Ads
+unityads.com, 1000000, DIRECT
